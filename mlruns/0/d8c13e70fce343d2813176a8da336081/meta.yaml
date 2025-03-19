@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DS/Desktop/SEM%203/MLOPS/Assignment%202/mlops_fashion_mnist/mlruns/0/d8c13e70fce343d2813176a8da336081/artifacts
+end_time: 1742318963317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8c13e70fce343d2813176a8da336081
+run_name: silent-gnu-224
+run_uuid: d8c13e70fce343d2813176a8da336081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742318955804
+status: 4
+tags: []
+user_id: DS

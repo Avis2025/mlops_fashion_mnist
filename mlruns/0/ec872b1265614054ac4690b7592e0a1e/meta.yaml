@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DS/Desktop/SEM%203/MLOPS/Assignment%202/mlops_fashion_mnist/mlruns/0/ec872b1265614054ac4690b7592e0a1e/artifacts
+end_time: 1742313513511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec872b1265614054ac4690b7592e0a1e
+run_name: rebellious-robin-628
+run_uuid: ec872b1265614054ac4690b7592e0a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742313469771
+status: 4
+tags: []
+user_id: DS

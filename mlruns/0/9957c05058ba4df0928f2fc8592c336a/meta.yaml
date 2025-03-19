@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DS/Desktop/SEM%203/MLOPS/Assignment%202/mlops_fashion_mnist/mlruns/0/9957c05058ba4df0928f2fc8592c336a/artifacts
+end_time: 1742319815469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9957c05058ba4df0928f2fc8592c336a
+run_name: thoughtful-hare-740
+run_uuid: 9957c05058ba4df0928f2fc8592c336a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742319022657
+status: 4
+tags: []
+user_id: DS

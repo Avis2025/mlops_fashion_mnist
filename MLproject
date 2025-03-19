@@ -1,0 +1,21 @@
+name: mlops_fashion_mnist
+
+# Use a Conda environment (defined in conda.yaml)
+conda_env: conda.yaml
+
+# Define entry points (scripts for each stage)
+entry_points:
+  M1_eda:
+    command: "python M1_eda.py"
+
+  M2_feature_engineering:
+    command: "python M2_feature_engineering.py"
+
+  M3_model_training:
+    parameters:
+      epochs: {type: int, default: 10}
+      batch_size: {type: int, default: 32}
+    command: "python M3_model_training.py --epochs {epochs} --batch_size {batch_size}"
+
+  M4_model_monitoring:
+    command: "python M4_model_monitoring.py"

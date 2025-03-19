@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DS/Desktop/SEM%203/MLOPS/Assignment%202/mlops_fashion_mnist/mlruns/0/2483b7b7387f4cd1acabb4af922d342c/artifacts
+end_time: 1742318856845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2483b7b7387f4cd1acabb4af922d342c
+run_name: clean-ox-731
+run_uuid: 2483b7b7387f4cd1acabb4af922d342c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742318821383
+status: 4
+tags: []
+user_id: DS
